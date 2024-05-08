@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 Pronouns: He/Him <br>•💡 Fun fact: I work as a cloud Engineer in the UK <br>• 🌱 I am Azure Devops Certified <br>• 💼 Job interests: Azure Cloud Engineer, Azure Devops Engineer
+😊 Pronouns: He/Him <br>💡 Fun fact: I work as a cloud Engineer in the UK and Been IT for the last 11 years<br>🌱 I am Azure Devops Certified <br>💼 Job interests: Azure Cloud Engineer, Azure Devops Engineer<br>Email - Chinedum.Okezie@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -16,4 +16,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kazie7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
