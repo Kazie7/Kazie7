@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 Pronouns: He/Him <br>💡 Fun fact: I work as a cloud Engineer in the UK and Been IT for the last 11 years<br>🌱 I am Azure Devops Certified <br>💼 Job interests: Azure Cloud Engineer, Azure Devops Engineer<br>Email - Chinedum.Okezie@gmail.com<br>
+😊 Pronouns: He/Him <br>💡 Fun fact: I'm a Cloud Engineer in the UK and I've been in the IT space for the last 11 years<br>🌱 I am Azure Devops Certified <br>💼 Job interests: Azure Cloud Engineer, Azure Devops Engineer<br>Email - Chinedum.Okezie@gmail.com<br>
 
 
 ## 🌐 Socials:
